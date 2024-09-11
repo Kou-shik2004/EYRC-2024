@@ -1,0 +1,6 @@
+[submodule "cobot"]
+	path = cobot
+	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-logistic-cobot.git
+[submodule "drone"]
+	path = drone
+	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-warehouse-drone.git
