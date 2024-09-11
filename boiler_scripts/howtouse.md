@@ -7,7 +7,7 @@ git push origin main
 ```
 # While cloning
 ```bash 
-git clone --recursive https://github.com/your-username/your-new-private-repo.git
+git clone --recurse-submodules git@github.com:Kou-shik2004/EYRC-2024.git
 ```
 # already cloned(not needed)
 ```bash
