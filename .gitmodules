@@ -4,3 +4,12 @@
 [submodule "drone"]
 	path = drone
 	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-warehouse-drone.git
+[submodule "drone_ws/src/warehouse_d"]
+	path = drone_ws/src/warehouse_d
+	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-warehouse-drone.git
+[submodule "drone_ws/src/warehouse_drone"]
+	path = drone_ws/src/warehouse_drone
+	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-warehouse-drone.git
+[submodule "cobot_ws/src/logistic_cobot"]
+	path = cobot_ws/src/logistic_cobot
+	url = https://github.com/eYantra-Robotics-Competition/eyrc-24-25-logistic-cobot.git
